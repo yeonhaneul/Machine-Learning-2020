@@ -10,6 +10,8 @@ chromedriver.exe
 gov_data_api_key.txt
 seoul_api_key.txt
 UCI_HAR_Dataset/
+IMDB/
+model/
 
 # IPython
 profile_default/
