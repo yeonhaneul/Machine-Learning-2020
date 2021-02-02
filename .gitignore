@@ -13,6 +13,8 @@ UCI_HAR_Dataset/
 IMDB/
 model/
 NaverMovie/
+keys/
+voice/
 
 # IPython
 profile_default/
